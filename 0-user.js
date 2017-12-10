@@ -20,3 +20,12 @@
  */
 
 // Your code :
+    user= {
+        name='aminata',
+        email='aminatasoumahoro2@gmail.com',
+        age=25
+    }
+   
+
+
+

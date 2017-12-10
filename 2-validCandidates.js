@@ -28,3 +28,9 @@ const users = [
 ]
 
 // Your code :
+
+const validCandidates=users=>{
+ if(age<=25){
+return users[name]
+ }
+}
