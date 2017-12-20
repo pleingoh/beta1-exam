@@ -29,5 +29,5 @@ const users = [
 
 // Your code :
 
-const validCandidates = users.filter(users=>users.age<25)
+const validCandidates = users.filter(users=>users.age<=25)
 console.log(validCandidates)
