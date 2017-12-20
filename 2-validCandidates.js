@@ -29,8 +29,5 @@ const users = [
 
 // Your code :
 
-const validCandidates=users=>{
- if(age<=25){
-return users[name]
- }
-}
+const validCandidates = users.filter(users=>users.age<25)
+console.log(validCandidates)
